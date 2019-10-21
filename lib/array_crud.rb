@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  my_array = ["ketchup", "mustard", "mayonnaise", "hp"]
   my_array << "lettuce"
   p my_array
 end
